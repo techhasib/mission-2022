@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+#top-banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vh;
+}
+.left{
+    width: 40%;
+    margin: 3rem;
+}
+.right{
+    width: 40%;
+    margin: 3rem;
+}
+img{
+    width: 80%;
+}
+
+.border{
+    border-left: 4px solid #FF5959;
+    border-radius: 1px;
+    padding-left: 10px;
+}
+.top-heading{
+    font-size: 60px;
+    font-family: Yeseva One;
+    color: #333333;
+}
+.highlight{
+    color: #FFAD5A;
+    font-family: Yeseva One;
+}
+.top-paragraph{
+    color: #3E3E3E;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.top-btn{
+    background-color: #FF5959;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.btn-tex{
+    margin-top: 30px;
+    color: #3E3E3E;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+#mission-aria{
+    margin-top: 100px;
+}
+
+.m-heading{
+    text-align: center;
+    color: #13103A;
+    font-size: 48px;
+    font-weight: 700;
+}
+.m-highlight{
+    color: #FFAD5A;
+}
+
+.misson-flex{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.misson-1{
+    background-color: #EDF5F6;
+}
+.misson-2{
+    background-color: #FFEEEE;
+}
+.misson-3{
+    background-color: #FFF4D6;
+}
+.card{
+    margin: 1rem;
+    padding: 1.5rem;
+    border-radius: 20px;
+}
+
+.card p{
+    color: #424242;
+    font-size: 14px;
+}
+
+.card img{
+width: 141px;
+height: 141px;
+left: 948px;
+top: 748px; 
+}
+
+.develop{
+    font-size: 36px;
+    font-weight: 700;
+    color: #333333
+}
+
+.coding{
+    margin-top: 8rem;
+}
+.image-move{
+    margin-left: 100px;
+}
+footer{
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 40px 0;
+}
+.bottom-heading{
+    font-size: 36px;
+    font-family: 'Lobster', cursive;
+}
+
+.last{
+    color: white;
+}
+.end-game{
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+}
